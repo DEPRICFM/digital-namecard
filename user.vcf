@@ -1,14 +1,20 @@
 BEGIN:VCARD
 VERSION:3.0
 PRODID:-//Apple Inc.//iPhone OS 11.2.2//EN
-N:Lim;Preston;;;
-FN: Preston  Lim 
-ORG:GovTech;
-TITLE:Associate Software Engineer\nProducts Team, Data Science Division
-EMAIL;type=INTERNET;type=WORK;type=pref:preston@data.gov.sg
-TEL;type=WORK;type=VOICE:+65 9123 4567
-item1.ADR;type=WORK;type=pref:;;1 Fusionopolis View\nSandcrawler\, 09-01;;;138577;Singapore
+N:Jeancarlo;Cavalcante;;;
+FN: Jeancarlo  Cavalcante 
+ORG:CFM;
+TITLE:Conselheiro Federal\nDepartamento de Relações Internacionais\nConselho Federal de Medicina
+EMAIL;type=INTERNET;type=WORK;type=pref:jeancarlo.cavalcante@portalmedico.org.br
+TEL;type=WORK;type=VOICE:+556134455975
+TEL;type=CEL;type=VOICE:+5584981782570
+item1.ADR;type=WORK;type=pref:;;SGAS 915, Lote 72\nBrasília-DF;;;72390-150
 item1.X-ABADR:sg
-item2.URL;type=pref:tech.gov.sg
+item2.URL;type=pref:portal.cfm.org.br
+item3.URL;type=pref:instagram.com/medicina_cfm
+item4.URL;type=pref:facebook.com/conselhofederaldemedicina/
+item5.URL;type=pref:twitter.com/Medicina_CFM?s=20
+item6.URL;type=pref:youtube.com/user/cfmedicina
 item2.X-ABLabel:_$!<HomePage>!$_
 END:VCARD
+
